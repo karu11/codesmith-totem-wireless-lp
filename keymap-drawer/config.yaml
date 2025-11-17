@@ -246,5 +246,3 @@ parse_config:
   zmk_combos: {}
   zmk_preamble: "#define KEYMAP_DRAWER"
   zmk_additional_includes: []
-  layout:
-  num_keys: 41
