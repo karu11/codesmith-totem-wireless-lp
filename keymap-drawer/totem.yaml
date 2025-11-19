@@ -1,4 +1,4 @@
-layout: {zmk_keyboard: totem (1)}
+layout: {zmk_keyboard: totem}
 layers:
   Base:
   - Q
