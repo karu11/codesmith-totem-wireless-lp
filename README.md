@@ -1,6 +1,6 @@
-<h1>Wireless Totem ZMK Config</h1>
+<h1>Wireless Totem PLUS ZMK Config</h1>
 
-Tried to include every ZMK dongle in this repository. Thanks to Eiga for the reference and all the dongle creators.
+It's a totem with an extra key like the Konrad with a side switch to turn on a gaming mode. Tried to include every ZMK dongle in this repository. Thanks to Eiga for the reference and all the dongle creators.
 
 
 ### Steps
