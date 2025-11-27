@@ -30,7 +30,7 @@ manifest:
       remote: carrefinho
       revision: main
     - name: zmk-dongle-screen
-      remote: bwshockley
+      remote: janpfischer
       revision: main
     - name: snake-module                          # <--- and these
       remote: joaopedropio                        # <---
